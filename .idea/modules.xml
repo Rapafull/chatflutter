@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/chatflutter.iml" filepath="$PROJECT_DIR$/chatflutter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/chatflutter_android.iml" filepath="$PROJECT_DIR$/android/chatflutter_android.iml" />
     </modules>
   </component>
 </project>
